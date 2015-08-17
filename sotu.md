@@ -168,6 +168,7 @@ of the Haskell runtime.
 * [Silk](https://www.silk.co)
 * [Shellcheck](http://www.shellcheck.net/)
 * [instantwatcher.com](http://instantwatcher.com/)
+* [skedge.me](https://skedge.me)
 
 **Propaganda:**
 
